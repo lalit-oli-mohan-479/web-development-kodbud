@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+nav {
+    margin-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+    padding: 8px 12px;
+    transition: 0.3s;
+}
+
+a:hover {
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+}
+
+h1 {
+    animation: fadeIn 2s;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
