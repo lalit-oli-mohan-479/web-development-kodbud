@@ -24,6 +24,17 @@
 - Added a Submit button
 - Applied CSS styling and hover effects
 
+## Medium Level
+
+### Task 1: Responsive Webpage ✅
+- Created a responsive Cricket Arena website using HTML, CSS, and JavaScript
+- Added Header, Content Sections, and Footer
+- Implemented CSS Media Queries for mobile responsiveness
+- Created a layout that adapts to different screen sizes
+- Added interactive hover effects and smooth scrolling
+- Tested the webpage on both desktop and mobile screens
+
 ## Technologies Used
 - HTML
 - CSS
+- JavaScript
