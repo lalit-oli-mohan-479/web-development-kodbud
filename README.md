@@ -34,6 +34,15 @@
 - Added interactive hover effects and smooth scrolling
 - Tested the webpage on both desktop and mobile screens
 
+### Task 3: To-Do List Application ✅
+- Created an interactive To-Do List application using HTML, CSS, and JavaScript
+- Added functionality to add and remove tasks dynamically
+- Implemented task completion and deletion features
+- Added task filtering options (All, Pending, Completed)
+- Displayed total and completed task count
+- Used Local Storage to save tasks even after page refresh
+- Designed a responsive and user-friendly interface
+
 ## Technologies Used
 - HTML
 - CSS
